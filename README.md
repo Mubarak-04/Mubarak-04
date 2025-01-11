@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Mubarak
 
 Aspiring Data Analyst | Passionate about solving real-world problems with data  
-<img align="right" width="370" height="290" src="[https://github.com/Mubarak-04/gethub_ex_1/blob/img-pro/1000022502jpg.0.jpg]" />
+<img align="right" width="370" height="290" src="[https://github.com/Mubarak-04/gethub_ex_1/blob/img-pro/prof_gif.gif]" />
 
 - 🔭 I'm currently working on Data Analytics Projects
 - 🌱 I’m learning Python, Power BI, and SQL
