@@ -1,4 +1,4 @@
-<img align="right" width="350" height="270" src="https://github.com/Mubarak-04/gethub_ex_1/blob/img-pro/prof_gif.gif">
+<img align="right" width="400" height="300" src="https://github.com/Mubarak-04/gethub_ex_1/blob/img-pro/prof_gif.gif">
 
 ## Hi there 👋 I'm Mubarak
 
@@ -13,18 +13,15 @@ Aspiring Data Analyst | Storyteller with Data
 
 ---
 
-## Code & Tools 🛠️  
+## Code & Tools I Use 🛠️  
 <div align="center">
-
-| *Languages I Code In* | *Tools I Use* |  
-|:-----------------------:|:---------------:|  
-| <img height="50" src="https://img.icons8.com/color/48/000000/python.png"/> Python | <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> Visual Studio Code |  
-| <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> MySQL | <img height="50" src="https://img.icons8.com/color/48/000000/tableau-software.png"/> Tableau |  
-| <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML | <img height="50" src="https://img.icons8.com/color/48/000000/microsoft-excel.png"/> Excel |  
-| <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> CSS | <img height="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> Anaconda |  
-| <img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/> C | <img height="50" src="https://img.icons8.com/color/48/000000/git.png"/> Git |  
-|  | <img height="50" src="https://img.icons8.com/fluency/48/000000/chatgpt.png"/> ChatGPT |  
-
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" title="Tableau" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel.png" alt="Excel" title="Excel" height="50" />
+  <img src="https://img.icons8.com/dusk/64/000000/anaconda.png" alt="Anaconda" title="Anaconda" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" height="50" />
+  <img src="https://img.icons8.com/fluency/48/000000/chatgpt.png" alt="ChatGPT" title="ChatGPT" height="50" />
 </div>
 
 ---
