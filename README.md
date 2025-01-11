@@ -1,45 +1,59 @@
-## Hi there 👋 It's me Mubarak
+# Hi, I'm Mubarak 👋  
 
-Aspiring Data Analyst | Passionate about solving real-world problems with data  
-<img align="right" width="370" height="290" src="[https://github.com/Mubarak-04/gethub_ex_1/blob/img-pro/prof_gif.gif]" />
+Welcome to my GitHub profile!  
 
-- 🔭 I'm currently working on Data Analytics Projects
-- 🌱 I’m learning Python, Power BI, and SQL
-- 👯 I’m looking to collaborate on Data Analytics and Machine Learning projects
-- 🤔 I’m exploring opportunities for internships in Tenkasi and Tirunelveli districts
-- 💬 Ask me about Data Analysis and Visualization
-- 📫 How to reach me:  
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/YOUR_TWITTER_HANDLE)  
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/https://linkedin.com/in/md-mubarak/)  
-- ⚡ Fun fact: I love experimenting with food data!  
+### 🔗 Let's Connect:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-md--mubarak-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-mubarak)  
+[![Instagram](https://img.shields.io/badge/Instagram-muba.__.rak-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/muba.__.rak/)  
 
 ---
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/sql.png" />  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png" />  
+### 👨‍💻 About Me  
+- 🌱 I’m currently learning *Machine Learning* and *Data Science*  
+- 🛠️ Tools and frameworks: Python, Power BI, Tableau, SQL, and more  
+- 🔍 Exploring *Data Analytics* and *AI Engineering* fields  
 
 ---
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/anaconda.png" />  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/tableau-software.png" />  
+### ⚡ Tech Stack  
+
+#### 🚀 I Code In:  
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&style=for-the-badge)  
+![C Programming](https://img.shields.io/badge/-C%20Programming-darkblue?logo=c&style=for-the-badge)  
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&style=for-the-badge)  
+![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&style=for-the-badge)  
+
+#### 🔧 IDEs and Tools I Use:  
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visualstudiocode&style=for-the-badge)  
+![Excel](https://img.shields.io/badge/-Excel-green?logo=microsoftexcel&style=for-the-badge)  
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-orange?logo=microsoftpowerpoint&style=for-the-badge)  
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-gray?style=for-the-badge)  
+![Anaconda](https://img.shields.io/badge/-Anaconda-darkgreen?logo=anaconda&style=for-the-badge)  
+![Tableau](https://img.shields.io/badge/-Tableau-blue?logo=tableau&style=for-the-badge)  
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)  
+![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&style=for-the-badge)  
 
 ---
 
-### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Processor-Intel_i5-ED1C24?style=for-the-badge&logo=intel&logoColor=white" />  
-<img height="30" src="https://img.shields.io/badge/GPU-NVIDIA_GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />  
+### 💻 Setup Specs  
+- 🖥️ Processor: Intel i7  
+- 🖥️ GPU: GTX 2060  
 
 ---
 
-### Mubarak's GitHub Stats
-![Mubarak's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&show_icons=true&&hide=issues,contribs)
+### 📊 My GitHub Stats  
+
+![Mubarak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubarak-04&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubarak-04&layout=compact&theme=radical)  
+
+![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mubarak-04&theme=dracula&hide_border=true)  
 
 ---
 
-[![Mubarak's LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?ext=contest&theme=dark)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+### 🧩 Coding Challenges  
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Muba_rak&theme=dark)](https://leetcode.com/Muba_rak)  
 
-[![Mubarak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+### 🎨 Featured Profile GIF  
+![Profile GIF](https://github.com/Mubarak-04/gethub_ex_1/blob/img-pro/prof_gif.gif)
