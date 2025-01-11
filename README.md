@@ -1,8 +1,8 @@
 <img align="right" width="400" height="300" src="https://github.com/Mubarak-04/gethub_ex_1/blob/img-pro/prof_gif.gif">
 
-## Hi there 👋 I'm Mubarak
-
+## Hi there 👋 I'm Mubarak  
 Aspiring Data Analyst | Storyteller with Data  
+
 - 🔭 Here's my [portfolio](https://www.linkedin.com/in/md-mubarak)  
 - 🌱 I’m currently learning *AI for Data Analytics* and exploring *Advanced Visualizations*  
 - 👯 I’m looking to collaborate on Data Analytics Projects  
@@ -14,15 +14,16 @@ Aspiring Data Analyst | Storyteller with Data
 ---
 
 ## Code & Tools I Use 🛠️  
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" title="Tableau" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel.png" alt="Excel" title="Excel" height="50" />
-  <img src="https://img.icons8.com/dusk/64/000000/anaconda.png" alt="Anaconda" title="Anaconda" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" height="50" />
-  <img src="https://img.icons8.com/fluency/48/000000/chatgpt.png" alt="ChatGPT" title="ChatGPT" height="50" />
-</div>
+
+| *Tool*          | *Icon*                                                                                     |  
+|--------------------|---------------------------------------------------------------------------------------------|  
+| Python            | <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" height="50" />  |  
+| MySQL             | <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL" height="50" /> |  
+| Tableau           | <img src="https://img.icons8.com/color/48/000000/tableau-software.png" title="Tableau" height="50" /> |  
+| Excel             | <img src="https://img.icons8.com/color/48/000000/microsoft-excel.png" title="Excel" height="50" /> |  
+| Anaconda          | <img src="https://img.icons8.com/dusk/64/000000/anaconda.png" title="Anaconda" height="50" /> |  
+| Git               | <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" height="50" /> |  
+| ChatGPT           | <img src="https://img.icons8.com/fluency/48/000000/chatgpt.png" title="ChatGPT" height="50" /> |  
 
 ---
 
