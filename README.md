@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there 👋 I'm Mubarak</h1>
-  <h3>Aspiring Data Analyst | Storyteller with Data</h3>
+  <h3>Aspiring Data Analyst | B.E. CSE Student</h3>
 </div>
 
 ---
