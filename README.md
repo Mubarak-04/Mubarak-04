@@ -6,7 +6,7 @@
 ---
 
 - 🌱 I’m currently learning *AI for Data Analytics* and exploring *Advanced Visualizations*  
-- 🔭 Here's my [portfolio](https://www.linkedin.com/in/md-mubarak)  
+- 🔭 Here's my [portfolio](mubarak-04.netlify.app/ )  
 - 👯 I’m looking to collaborate on *Data Analytics Projects*  
 - 💬 Ask me about *Python, SQL, Data Analytics, Data Storytelling*, and more  
 - 📫 How to reach me:  
